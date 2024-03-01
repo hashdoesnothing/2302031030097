@@ -1,0 +1,127 @@
+.icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.contact-us-child {
+  position: absolute;
+  top: 152px;
+  left: 20px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-brown-100);
+  width: 1399px;
+  height: 497px;
+}
+.group-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  width: 1440px;
+  height: 81px;
+}
+.about7,
+.art-style7,
+.artists7,
+.cart8,
+.contact-us7,
+.home7,
+.orders8 {
+  position: absolute;
+  top: 16.2px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 162px;
+  height: 33.2px;
+}
+.about7,
+.art-style7,
+.artists7,
+.cart8,
+.contact-us7,
+.orders8 {
+  left: 183px;
+}
+.about7,
+.artists7,
+.cart8,
+.contact-us7,
+.orders8 {
+  left: 993px;
+}
+.about7,
+.artists7,
+.cart8,
+.orders8 {
+  left: 831px;
+}
+.artists7,
+.cart8,
+.orders8 {
+  left: 669px;
+}
+.artists7,
+.orders8 {
+  left: 507px;
+}
+.artists7 {
+  left: 345px;
+}
+.group-child4,
+.welcome-1-icon6 {
+  position: absolute;
+  top: 0;
+  height: 81px;
+}
+.welcome-1-icon6 {
+  left: 1338px;
+  width: 88px;
+  object-fit: cover;
+  mix-blend-mode: color-dodge;
+}
+.group-child4 {
+  left: 1015px;
+  background-color: var(--color-peru);
+  width: 139px;
+}
+.vector-parent3 {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  width: 1440px;
+  height: 81px;
+}
+.contact-us8,
+.have-questions-or {
+  margin: 0;
+}
+.contact-us-have-container1 {
+  width: 100%;
+}
+.contact-us-have-container {
+  position: absolute;
+  top: 178px;
+  left: 67px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 1315px;
+  height: 372px;
+}
+.contact-us6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

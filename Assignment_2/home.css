@@ -1,0 +1,381 @@
+.icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.top-100-paintings-the-starry-n-icon {
+  position: absolute;
+  top: 149px;
+  left: 201px;
+  width: 253px;
+  height: 311px;
+  object-fit: cover;
+}
+.top-100-paintings-mona-lisa-by-icon,
+.top-100-paintings-the-scream-b-icon {
+  position: absolute;
+  top: 149px;
+  left: 599px;
+  width: 278px;
+  height: 311px;
+  object-fit: cover;
+}
+.top-100-paintings-mona-lisa-by-icon {
+  left: 1027px;
+  width: 245px;
+}
+.top-100-paintings-american-got-icon,
+.top-100-paintings-the-kiss-by-icon {
+  position: absolute;
+  top: 539px;
+  left: 1036px;
+  width: 262px;
+  height: 327px;
+  object-fit: cover;
+}
+.top-100-paintings-american-got-icon {
+  left: 580px;
+  width: 336px;
+  height: 336px;
+}
+.top-100-paintings-the-sleeping-icon {
+  position: absolute;
+  top: 529px;
+  left: 178px;
+  width: 352px;
+  height: 346px;
+  object-fit: cover;
+}
+.frame-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  width: 1440px;
+  height: 81px;
+}
+.about14,
+.art-style14,
+.artists14,
+.cart16,
+.contact-us14,
+.home14,
+.orders15 {
+  position: absolute;
+  top: 16.2px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 162px;
+  height: 33.2px;
+}
+.about14,
+.art-style14,
+.artists14,
+.cart16,
+.contact-us14,
+.orders15 {
+  left: 183px;
+}
+.about14,
+.artists14,
+.cart16,
+.contact-us14,
+.orders15 {
+  left: 993px;
+}
+.about14,
+.artists14,
+.cart16,
+.orders15 {
+  left: 831px;
+}
+.artists14,
+.cart16,
+.orders15 {
+  left: 669px;
+}
+.artists14,
+.orders15 {
+  left: 507px;
+}
+.artists14 {
+  left: 345px;
+}
+.frame-child16,
+.welcome-1-icon12 {
+  position: absolute;
+  top: 0;
+  height: 81px;
+}
+.welcome-1-icon12 {
+  left: 1338px;
+  width: 88px;
+  object-fit: cover;
+  mix-blend-mode: color-dodge;
+}
+.frame-child16 {
+  left: 32px;
+  background-color: var(--color-peru);
+  width: 139px;
+}
+.frame-child17,
+.vector-parent9 {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  width: 1440px;
+  height: 81px;
+}
+.frame-child17 {
+  top: 0;
+  background-color: var(--color-gainsboro);
+  width: 109px;
+  height: 31px;
+}
+.div18 {
+  position: absolute;
+  top: 6px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 73px;
+  height: 25px;
+}
+.frame-child18,
+.rectangle-parent19 {
+  position: absolute;
+  top: 468px;
+  left: 273px;
+  width: 109px;
+  height: 31px;
+}
+.frame-child18 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.div19 {
+  position: absolute;
+  top: 6px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 73px;
+  height: 25px;
+}
+.frame-child19,
+.rectangle-parent20 {
+  position: absolute;
+  top: 468px;
+  left: 683px;
+  width: 109px;
+  height: 31px;
+}
+.frame-child19 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.div20 {
+  position: absolute;
+  top: 6px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 73px;
+  height: 25px;
+}
+.frame-child20,
+.rectangle-parent21 {
+  position: absolute;
+  top: 468px;
+  left: 1093px;
+  width: 109px;
+  height: 31px;
+}
+.frame-child20 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.div21 {
+  position: absolute;
+  top: 6px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 73px;
+  height: 25px;
+}
+.frame-child21,
+.rectangle-parent22 {
+  position: absolute;
+  top: 883px;
+  left: 275px;
+  width: 109px;
+  height: 31px;
+}
+.frame-child21 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.div22 {
+  position: absolute;
+  top: 6px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 73px;
+  height: 25px;
+}
+.frame-child22,
+.rectangle-parent23 {
+  position: absolute;
+  top: 880px;
+  left: 693px;
+  width: 109px;
+  height: 31px;
+}
+.frame-child22 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.div23 {
+  position: absolute;
+  top: 6px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 73px;
+  height: 25px;
+}
+.frame-child23,
+.rectangle-parent24 {
+  position: absolute;
+  top: 877px;
+  left: 1111px;
+  width: 109px;
+  height: 31px;
+}
+.frame-child23 {
+  top: 0;
+  left: 3px;
+  background-color: var(--color-brown-300);
+  width: 25px;
+  height: 23px;
+}
+.div24 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div24,
+.frame-child24,
+.rectangle-parent25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 28px;
+  height: 23px;
+}
+.frame-child24 {
+  left: 3px;
+  background-color: var(--color-brown-200);
+  width: 25px;
+}
+.div25,
+.frame-child25,
+.rectangle-parent26 {
+  position: absolute;
+  top: 0;
+  width: 28px;
+  height: 23px;
+}
+.div25 {
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-child25,
+.rectangle-parent26 {
+  left: 38px;
+}
+.frame-child25 {
+  left: 3px;
+  background-color: var(--color-brown-200);
+  width: 25px;
+}
+.div26,
+.next1,
+.rectangle-parent27 {
+  position: absolute;
+  top: 0;
+  width: 28px;
+  height: 23px;
+}
+.div26 {
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.next1,
+.rectangle-parent27 {
+  left: 76px;
+}
+.next1 {
+  top: 5px;
+  left: 82px;
+  font-size: var(--font-size-lg);
+  color: var(--color-cornflowerblue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 113px;
+  height: 11px;
+}
+.frame-parent2,
+.you-might-like {
+  position: absolute;
+  top: 966px;
+  left: 682px;
+  width: 195px;
+  height: 23px;
+}
+.you-might-like {
+  top: 85px;
+  left: 513px;
+  font-size: 27px;
+  display: flex;
+  font-weight: 900;
+  align-items: center;
+  justify-content: center;
+  width: 436px;
+  height: 59px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home13 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

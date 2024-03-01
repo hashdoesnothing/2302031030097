@@ -1,0 +1,307 @@
+.frame-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  width: 1440px;
+  height: 81px;
+}
+.about5,
+.art-style5,
+.artists5,
+.cart6,
+.contact-us4,
+.home5,
+.orders6 {
+  position: absolute;
+  top: 16.2px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 162px;
+  height: 33.2px;
+}
+.about5,
+.art-style5,
+.artists5,
+.cart6,
+.contact-us4,
+.orders6 {
+  left: 183px;
+}
+.about5,
+.artists5,
+.cart6,
+.contact-us4,
+.orders6 {
+  left: 993px;
+}
+.about5,
+.artists5,
+.cart6,
+.orders6 {
+  left: 831px;
+}
+.artists5,
+.cart6,
+.orders6 {
+  left: 669px;
+}
+.artists5,
+.orders6 {
+  left: 507px;
+}
+.artists5 {
+  left: 345px;
+}
+.frame-child11,
+.welcome-1-icon4 {
+  position: absolute;
+  top: 0;
+  height: 81px;
+}
+.welcome-1-icon4 {
+  left: 1338px;
+  width: 88px;
+  object-fit: cover;
+  mix-blend-mode: color-dodge;
+}
+.frame-child11 {
+  left: 356px;
+  background-color: var(--color-peru);
+  width: 139px;
+}
+.vector-parent1 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  width: 1440px;
+  height: 81px;
+}
+.top-100-paintings-the-arnolfin-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 299px;
+  height: 410px;
+  object-fit: cover;
+}
+.top-100-paintings-the-girl-wit-icon,
+.top-100-paintings-the-happy-ac-icon {
+  position: absolute;
+  top: 8px;
+  left: 375px;
+  width: 384px;
+  height: 395px;
+  object-fit: cover;
+}
+.top-100-paintings-the-happy-ac-icon {
+  left: 894px;
+  width: 317px;
+}
+.top-100-paintings-the-night-wa-icon {
+  position: absolute;
+  top: 528px;
+  left: 229px;
+  width: 676px;
+  height: 238px;
+  object-fit: cover;
+}
+.b2,
+.wrapper {
+  position: absolute;
+}
+.b2 {
+  top: 7px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 93px;
+  height: 31px;
+}
+.wrapper {
+  top: 421px;
+  left: 83px;
+  background-color: var(--color-gainsboro);
+  width: 131px;
+  height: 38px;
+}
+.b3 {
+  top: 7px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 93px;
+  height: 31px;
+}
+.b3,
+.b4,
+.container {
+  position: absolute;
+}
+.container {
+  top: 418px;
+  left: 517px;
+  background-color: var(--color-gainsboro);
+  width: 131px;
+  height: 38px;
+}
+.b4 {
+  top: 7px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 93px;
+  height: 31px;
+}
+.frame {
+  top: 425px;
+  left: 987px;
+  background-color: var(--color-gainsboro);
+  width: 131px;
+  height: 38px;
+}
+.b5,
+.frame,
+.wrapper1 {
+  position: absolute;
+}
+.b5 {
+  top: 7px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 93px;
+  height: 31px;
+}
+.wrapper1 {
+  top: 781px;
+  left: 517px;
+  background-color: var(--color-gainsboro);
+  width: 131px;
+  height: 38px;
+}
+.top-100-paintings-the-arnolfin-parent {
+  position: absolute;
+  top: 123px;
+  left: 102px;
+  width: 1211px;
+  height: 819px;
+  font-size: var(--font-size-5xl);
+}
+.frame-child12 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  background-color: var(--color-brown-300);
+  width: 25px;
+  height: 23px;
+}
+.div5,
+.frame-child13,
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  width: 28px;
+  height: 23px;
+}
+.div5 {
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-child13,
+.rectangle-parent5 {
+  left: 102px;
+}
+.frame-child13 {
+  left: 3px;
+  background-color: var(--color-brown-200);
+  width: 25px;
+}
+.div6,
+.frame-child14,
+.rectangle-parent6 {
+  position: absolute;
+  top: 0;
+  width: 28px;
+  height: 23px;
+}
+.div6 {
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-child14,
+.rectangle-parent6 {
+  left: 140px;
+}
+.frame-child14 {
+  left: 3px;
+  background-color: var(--color-brown-200);
+  width: 25px;
+}
+.div7,
+.next,
+.previous,
+.rectangle-parent7 {
+  position: absolute;
+  top: 0;
+  width: 28px;
+  height: 23px;
+}
+.div7 {
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.next,
+.previous,
+.rectangle-parent7 {
+  left: 178px;
+}
+.next,
+.previous {
+  top: 6px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-cornflowerblue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 113px;
+  height: 11px;
+}
+.next {
+  top: 5px;
+  left: 184px;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 972px;
+  left: 564px;
+  width: 297px;
+  height: 23px;
+}
+.div4 {
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url(./public/pexelsphoto1269968-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

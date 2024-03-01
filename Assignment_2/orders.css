@@ -1,0 +1,140 @@
+.pexels-photo-1269968-2-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  width: 1440px;
+  height: 81px;
+}
+.about11,
+.art-style10,
+.artists11,
+.cart11,
+.contact-us11,
+.home10,
+.orders12 {
+  position: absolute;
+  top: 16.2px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 162px;
+  height: 33.2px;
+}
+.about11,
+.art-style10,
+.artists11,
+.cart11,
+.contact-us11,
+.orders12 {
+  left: 183px;
+}
+.about11,
+.artists11,
+.cart11,
+.contact-us11,
+.orders12 {
+  left: 993px;
+}
+.about11,
+.artists11,
+.cart11,
+.orders12 {
+  left: 831px;
+}
+.artists11,
+.cart11,
+.orders12 {
+  left: 669px;
+}
+.artists11,
+.orders12 {
+  left: 507px;
+}
+.artists11 {
+  left: 345px;
+}
+.group-child8,
+.welcome-1-icon9 {
+  position: absolute;
+  top: 0;
+  height: 81px;
+}
+.welcome-1-icon9 {
+  left: 1338px;
+  width: 88px;
+  object-fit: cover;
+  mix-blend-mode: color-dodge;
+}
+.group-child8 {
+  left: 518px;
+  background-color: var(--color-peru);
+  width: 139px;
+}
+.vector-parent6 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  width: 1440px;
+  height: 81px;
+  color: var(--color-black);
+}
+.orders-child {
+  position: absolute;
+  top: 118px;
+  left: 27px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-brown-100);
+  width: 1386px;
+  height: 759px;
+}
+.your-orders1 {
+  position: absolute;
+  top: 150px;
+  left: 63px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 391px;
+  height: 101px;
+}
+.orders-item {
+  position: absolute;
+  top: 220px;
+  left: 78px;
+  width: 372px;
+  height: 359px;
+  object-fit: cover;
+}
+.see-details1 {
+  position: absolute;
+  top: 579px;
+  left: 78px;
+  font-size: var(--font-size-lgi);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 381px;
+  height: 64px;
+}
+.orders11 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
